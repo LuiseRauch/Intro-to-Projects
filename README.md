@@ -21,6 +21,9 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* Adding a mentor
+  - this is a new bullet
+
 * ...
 
 
